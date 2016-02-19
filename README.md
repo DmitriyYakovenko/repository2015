@@ -2,48 +2,48 @@
 
 http://fontweb.ru - Шриты для веб-дизайна и верстки
 
-elementary.io -логотипs
+http://http://http://http://http://http://http://elementary.io -логотипs
 
-getbootstrap.com - Адаптивная сетка
+http://http://http://http://http://http://getbootstrap.com - Адаптивная сетка
 
-jquery.com - Популярнейший javaScript 
+http://http://http://http://http://jquery.com - Популярнейший javaScript 
 Framework
-stocksnap.io - Сервис качественных бесплатных фотографий для веб-дизайна
+http://http://http://http://stocksnap.io - Сервис качественных бесплатных фотографий для веб-дизайна
 
-wireframe.cc - Отличный сервис для скетчинга
+http://http://http://wireframe.cc - Отличный сервис для скетчинга
 
-gist.github.com - Сервис для хранения полезного кода
+http://http://gist.github.com - Сервис для хранения полезного кода
 
-inkscape.org - Векторный редактор SVG
+http://inkscape.org - Векторный редактор SVG
 
-linea.io - Тонкие векторные иконки
+http://linea.io - Тонкие векторные иконки
 
-fortawesome.github.io - Векторные иконки. Использовали для соц. сетей
+http://fortawesome.github.io - Векторные иконки. Использовали для соц. сетей
 
-codepen.io - Много интересного кода.
+http://codepen.io - Много интересного кода.
 
-pixelcog.github.io/parallax.js - Параллакс эффект
+http://pixelcog.github.io/parallax.js - Параллакс эффект
 
-dimsemenov.com/plugins/magnific-popup - Респонсив попап менеджер
+http://dimsemenov.com/plugins/magnific-popup - Респонсив попап менеджер
 
-github.com/malihu/page-scroll-to-id - Плагин навигации по Landing Page
+http://github.com/malihu/page-scroll-to-id - Плагин навигации по Landing Page
 
-imakewebthings.com/waypoints - Триггер для скролла
+http://imakewebthings.com/waypoints - Триггер для скролла
 
-daneden.github.io/animate.css - Анимация элементов на странице
+http://daneden.github.io/animate.css - Анимация элементов на странице
 
-mixitup.kunkalabs.com - Сортабельные анимированные плитки в портфолио
+http://mixitup.kunkalabs.com - Сортабельные анимированные плитки в портфолио
 
-bourbon.io - Коллекция миксинов для SASS
+http://bourbon.io - Коллекция миксинов для SASS
 
-sass-lang.com - Препроцессор SASS
+http://sass-lang.com - Препроцессор SASS
 
-koala-app.com - Компилятор для препроцессоров
+http://koala-app.com - Компилятор для препроцессоров
 
-fontsquirrel.com/fonts/raleway - Бесплатный шрифт 
+http://fontsquirrel.com/fonts/raleway - Бесплатный шрифт 
 
-sublimetext.com - Редактор для фронт-енда
+http://sublimetext.com - Редактор для фронт-енда
 
-jetbrains.com/phpstorm - Редактор для бэк-енда
+http://jetbrains.com/phpstorm - Редактор для бэк-енда
 
-formspree.io - Отправка заявок с сайта
+http://formspree.io - Отправка заявок с сайта
