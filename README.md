@@ -8,6 +8,7 @@ http://getbootstrap.com - Адаптивная сетка
 
 http://jquery.com - Популярнейший javaScript 
 Framework
+
 http://stocksnap.io - Сервис качественных бесплатных фотографий для веб-дизайна
 
 http://wireframe.cc - Отличный сервис для скетчинга
