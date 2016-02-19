@@ -2,17 +2,17 @@
 
 http://fontweb.ru - Шриты для веб-дизайна и верстки
 
-http://http://http://http://http://http://http://elementary.io -логотипs
+http://elementary.io -логотипs
 
-http://http://http://http://http://http://getbootstrap.com - Адаптивная сетка
+http://getbootstrap.com - Адаптивная сетка
 
-http://http://http://http://http://jquery.com - Популярнейший javaScript 
+http://jquery.com - Популярнейший javaScript 
 Framework
-http://http://http://http://stocksnap.io - Сервис качественных бесплатных фотографий для веб-дизайна
+http://stocksnap.io - Сервис качественных бесплатных фотографий для веб-дизайна
 
-http://http://http://wireframe.cc - Отличный сервис для скетчинга
+http://wireframe.cc - Отличный сервис для скетчинга
 
-http://http://gist.github.com - Сервис для хранения полезного кода
+http://gist.github.com - Сервис для хранения полезного кода
 
 http://inkscape.org - Векторный редактор SVG
 
