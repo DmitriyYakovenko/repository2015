@@ -52,3 +52,5 @@ http://formspree.io - Отправка заявок с сайта
 http://oriolo.ru/create-theme-from-html-1/ создание темы на WordPress
 
 http://templated.co/ бесплатные шаблоны сайтов
+
+http://underscores.me/ генератор тем для WordPress
