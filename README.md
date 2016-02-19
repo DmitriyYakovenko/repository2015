@@ -1,7 +1,6 @@
 # repository2015
-ru.wordpress.org - Собственной персоной;
 
-fontweb.ru - Шриты для веб-дизайна и верстки
+http://fontweb.ru - Шриты для веб-дизайна и верстки
 
 elementary.io -логотипs
 
