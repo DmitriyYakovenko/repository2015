@@ -47,3 +47,5 @@ http://sublimetext.com - Редактор для фронт-енда
 http://jetbrains.com/phpstorm - Редактор для бэк-енда
 
 http://formspree.io - Отправка заявок с сайта
+
+http://oriolo.ru/create-theme-from-html-1/ создание темы на WordPress
