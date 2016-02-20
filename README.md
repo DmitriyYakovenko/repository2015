@@ -60,3 +60,5 @@ http://dontforget.pro/wordpress/proizvolnyie-tipyi-postov-i-taksonomiya-prosto/ 
 https://wpcafe.org/tutorials/contact-form-7-wordpress-plagin-dlya-kontaktnoy-formyi/ установка и настройка Contact form 7
 
 https://wpcafe.org/plugins/sozdayom-menyu-v-wordpress-s-pomoshhyu-plaginov/ список полезных плагинов для создания меню
+
+http://sebweo.com/ru/struktura-cms-wordpress/ структура движка WerdPress что в какой папке лежит
