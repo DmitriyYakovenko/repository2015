@@ -62,3 +62,5 @@ https://wpcafe.org/tutorials/contact-form-7-wordpress-plagin-dlya-kontaktnoy-for
 https://wpcafe.org/plugins/sozdayom-menyu-v-wordpress-s-pomoshhyu-plaginov/ список полезных плагинов для создания меню
 
 http://sebweo.com/ru/struktura-cms-wordpress/ структура движка WerdPress что в какой папке лежит
+
+http://vnet-rabota.ru/sozdanie-site/wordpress/130-plagini-wordpress.html некоторые сведенья о плагинах WP
