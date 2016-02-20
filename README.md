@@ -54,3 +54,5 @@ http://oriolo.ru/create-theme-from-html-1/ создание темы на WordPr
 http://templated.co/ бесплатные шаблоны сайтов
 
 http://underscores.me/ генератор тем для WordPress
+
+http://dontforget.pro/wordpress/proizvolnyie-tipyi-postov-i-taksonomiya-prosto/ таксономия и плагин Custom Content Types and Fields
