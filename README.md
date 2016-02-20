@@ -56,3 +56,7 @@ http://templated.co/ бесплатные шаблоны сайтов
 http://underscores.me/ генератор тем для WordPress
 
 http://dontforget.pro/wordpress/proizvolnyie-tipyi-postov-i-taksonomiya-prosto/ таксономия и плагин Custom Content Types and Fields
+
+https://wpcafe.org/tutorials/contact-form-7-wordpress-plagin-dlya-kontaktnoy-formyi/ установка и настройка Contact form 7
+
+
