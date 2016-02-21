@@ -64,3 +64,5 @@ https://wpcafe.org/plugins/sozdayom-menyu-v-wordpress-s-pomoshhyu-plaginov/ сп
 http://sebweo.com/ru/struktura-cms-wordpress/ структура движка WerdPress что в какой папке лежит
 
 http://vnet-rabota.ru/sozdanie-site/wordpress/130-plagini-wordpress.html некоторые сведенья о плагинах WP
+
+http://phpbook.comli.com/PHPbook.pdf собеседование по PHP в вопросах и ответах
