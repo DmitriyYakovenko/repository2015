@@ -66,3 +66,14 @@ http://sebweo.com/ru/struktura-cms-wordpress/ структура движка We
 http://vnet-rabota.ru/sozdanie-site/wordpress/130-plagini-wordpress.html некоторые сведенья о плагинах WP
 
 http://phpbook.comli.com/PHPbook.pdf собеседование по PHP в вопросах и ответах
+
+https://generatewp.com/ генератор кода для WordPress
+
+http://getpocket.com сохраняет ссылки
+
+http://getbootstrap.com/ Bootstrap 
+
+http://code.tutsplus.com/tutorials/when-to-use-bootstrap-for-your-wordpress-theme-and-when-not-to--cms-23561 как пользоватся Bootstrap
+
+
+
