@@ -75,5 +75,6 @@ http://getbootstrap.com/ Bootstrap
 
 http://code.tutsplus.com/tutorials/when-to-use-bootstrap-for-your-wordpress-theme-and-when-not-to--cms-23561 как пользоватся Bootstrap
 
-
+https://www.youtube.com/watch?v=GHTZn3atTcM&list=PLpcSpRrAaOaqMA4RdhSnnNcaqOVpX7qi5&index=6&nohtml5=False
+туториалы по wp 
 
